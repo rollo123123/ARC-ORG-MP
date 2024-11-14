@@ -5,3 +5,5 @@ This project was created during my second year of college and our group was task
 
 
 To use: download the project and open the jar file to view the project. After inputting a string, press enter to check for its equivalent. The bottom right button is to clear the text.
+
+p.s. i failed this class ;;
